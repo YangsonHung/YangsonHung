@@ -1,4 +1,4 @@
-### Hi there 👋
+### 优秀是优秀者的通行证
 
 <!--
 **Yangson-Hung/Yangson-Hung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 一个不务正业的前端 😜

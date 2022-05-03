@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 一个不务正业的前端 😜
+### 在职前端工程师 😜
+
+### 个人博客
+https://www.yangsonhung.top/

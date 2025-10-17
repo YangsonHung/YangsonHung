@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 ### 在职前端工程师 😜
 
 ### 个人博客
-https://www.yangsonhung.top/
+
+halo：https://www.yangsonhung.top/
+
+掘金：https://juejin.cn/user/3597257779474941

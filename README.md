@@ -23,10 +23,16 @@ I'm a **Frontend Engineer** passionate about coding and building high-quality we
 ## 💻 Tech Stack
 ```javascript
 const yangson = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["React", "Vue", "Node.js"],
-  tools: ["Git", "Webpack", "Vite"],
-  architecture: ["SPA", "SSR", "Micro-frontend"],
+  frontend: {
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    frameworks: ["React", "Vue", "Node.js"],
+    tools: ["Git", "Webpack", "Vite"],
+    architecture: ["SPA", "SSR", "Micro-frontend"]
+  },
+  backend: {
+    languages: ["Python", "Go"],
+    frameworks: ["FastAPI", "Gin"]
+  },
   currentFocus: "Frontend Engineering & Performance Optimization"
 };
 ```
@@ -69,10 +75,16 @@ Welcome to visit my blog and let's learn together!
 ## 💻 技术栈
 ```javascript
 const yangson = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["React", "Vue", "Node.js"],
-  tools: ["Git", "Webpack", "Vite"],
-  architecture: ["SPA", "SSR", "微前端"],
+  frontend: {
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    frameworks: ["React", "Vue", "Node.js"],
+    tools: ["Git", "Webpack", "Vite"],
+    architecture: ["SPA", "SSR", "微前端"]
+  },
+  backend: {
+    languages: ["Python", "Go"],
+    frameworks: ["FastAPI", "Gin"]
+  },
   currentFocus: "前端工程化 & 性能优化"
 };
 ```

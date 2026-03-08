@@ -37,8 +37,8 @@ const yangson = {
   openSource: {
     projects: ["TanVite", "Forvix"],
     links: {
-      TanVite: "https://github.com/YangsonHung/TanVite",
-      Forvix: "https://github.com/YangsonHung/Forvix"
+      TanVite: "https://github.com/YangsonHung/tanvite",
+      Forvix: "https://github.com/YangsonHung/forvix"
     }
   },
   currentFocus: "Full-Stack Engineering & AI Application Development"
@@ -90,8 +90,8 @@ const yangson = {
   openSource: {
     projects: ["TanVite", "Forvix"],
     links: {
-      TanVite: "https://github.com/YangsonHung/TanVite",
-      Forvix: "https://github.com/YangsonHung/Forvix"
+      TanVite: "https://github.com/YangsonHung/tanvite",
+      Forvix: "https://github.com/YangsonHung/forvix"
     }
   },
   currentFocus: "全栈工程化 & AI 应用开发"

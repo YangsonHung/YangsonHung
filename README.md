@@ -55,8 +55,7 @@ Welcome to visit my blog and let's learn together!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yangson-Hung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangson-Hung&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Yangson-Hung&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 ## 🤝 Connect with Me
@@ -115,8 +114,7 @@ const yangson = {
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yangson-Hung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangson-Hung&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Yangson-Hung&theme=radical&hide_border=false&locale=zh_Hans" alt="GitHub Streak Stats"/>
 </div>
 
 ## 🤝 联系我
@@ -132,3 +130,5 @@ const yangson = {
 <div align="center">
   <i>⭐️ 如果你觉得我的项目有帮助，欢迎 star！</i>
 </div>
+
+中文版的 streak-stats 加了 `locale=zh_Hans` 参数，日期和标签会显示中文。直接整体复制替换你的 README.md 就好。

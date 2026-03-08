@@ -31,8 +31,8 @@ const yangson = {
     architecture: ["SPA", "SSR", "Micro-frontend"]
   },
   backend: {
-    languages: ["Python", "Go"],
-    frameworks: ["FastAPI", "Gin"]
+    languages: ["Python"],
+    frameworks: ["FastAPI"]
   },
   openSource: {
     projects: ["TanVite", "Forvix"],
@@ -84,8 +84,8 @@ const yangson = {
     architecture: ["SPA", "SSR", "微前端"]
   },
   backend: {
-    languages: ["Python", "Go"],
-    frameworks: ["FastAPI", "Gin"]
+    languages: ["Python"],
+    frameworks: ["FastAPI"]
   },
   openSource: {
     projects: ["TanVite", "Forvix"],

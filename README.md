@@ -52,12 +52,6 @@ const yangson = {
 
 Welcome to visit my blog and let's learn together!
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yangson-Hung&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-</div>
-
 ## 🤝 Connect with Me
 
 - 📧 Email: yangson356a@gmail.com
@@ -110,12 +104,6 @@ const yangson = {
 - ✍️ **掘金主页**: [我的掘金](https://juejin.cn/user/3597257779474941)
 
 欢迎访问我的博客，一起交流学习！
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yangson-Hung&theme=radical&hide_border=false&locale=zh_Hans" alt="GitHub Streak Stats"/>
-</div>
 
 ## 🤝 联系我
 

@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Engineer** passionate about coding and building high-quality web applications.
+I'm a **Python Full-Stack Engineer** passionate about coding and building high-quality web applications.
 
-- 🔭 Currently focusing on frontend engineering and performance optimization
+- 🔭 Currently focusing on full-stack engineering and AI application development
 - 🌱 Continuously learning new technologies and exploring best practices
 - 💡 Love sharing technical insights and development experience
 - 📝 Regularly writing technical articles on my blog and Juejin
@@ -41,7 +41,7 @@ const yangson = {
       Forvix: "https://github.com/YangsonHung/Forvix"
     }
   },
-  currentFocus: "Frontend Engineering & Performance Optimization"
+  currentFocus: "Full-Stack Engineering & AI Application Development"
 };
 ```
 
@@ -66,9 +66,9 @@ Welcome to visit my blog and let's learn together!
 
 ## 🚀 关于我
 
-我是一名**前端工程师**，热爱编程，专注于构建优质的 Web 应用。
+我是一名 **Python 全栈工程师**，热爱编程，专注于构建优质的 Web 应用。
 
-- 🔭 目前专注于前端工程化和性能优化
+- 🔭 目前专注于全栈工程化和 AI 应用开发
 - 🌱 持续学习新技术，探索最佳实践
 - 💡 喜欢分享技术见解和开发经验
 - 📝 定期在个人博客和掘金发表技术文章
@@ -94,7 +94,7 @@ const yangson = {
       Forvix: "https://github.com/YangsonHung/Forvix"
     }
   },
-  currentFocus: "前端工程化 & 性能优化"
+  currentFocus: "全栈工程化 & AI 应用开发"
 };
 ```
 
@@ -118,5 +118,3 @@ const yangson = {
 <div align="center">
   <i>⭐️ 如果你觉得我的项目有帮助，欢迎 star！</i>
 </div>
-
-中文版的 streak-stats 加了 `locale=zh_Hans` 参数，日期和标签会显示中文。直接整体复制替换你的 README.md 就好。

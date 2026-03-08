@@ -21,6 +21,7 @@ I'm a **Frontend Engineer** passionate about coding and building high-quality we
 - 📝 Regularly writing technical articles on my blog and Juejin
 
 ## 💻 Tech Stack
+
 ```javascript
 const yangson = {
   frontend: {
@@ -32,6 +33,13 @@ const yangson = {
   backend: {
     languages: ["Python", "Go"],
     frameworks: ["FastAPI", "Gin"]
+  },
+  openSource: {
+    projects: ["TanVite", "Forvix"],
+    links: {
+      TanVite: "https://github.com/YangsonHung/TanVite",
+      Forvix: "https://github.com/YangsonHung/Forvix"
+    }
   },
   currentFocus: "Frontend Engineering & Performance Optimization"
 };
@@ -73,6 +81,7 @@ Welcome to visit my blog and let's learn together!
 - 📝 定期在个人博客和掘金发表技术文章
 
 ## 💻 技术栈
+
 ```javascript
 const yangson = {
   frontend: {
@@ -84,6 +93,13 @@ const yangson = {
   backend: {
     languages: ["Python", "Go"],
     frameworks: ["FastAPI", "Gin"]
+  },
+  openSource: {
+    projects: ["TanVite", "Forvix"],
+    links: {
+      TanVite: "https://github.com/YangsonHung/TanVite",
+      Forvix: "https://github.com/YangsonHung/Forvix"
+    }
   },
   currentFocus: "前端工程化 & 性能优化"
 };
